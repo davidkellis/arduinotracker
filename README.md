@@ -4,6 +4,8 @@ Arduino GPS tracker.
 
 This app runs on an Arduino that is hooked up to a Adafruit FONA 808 v2 (see https://www.adafruit.com/product/2542). It is intended to be used in conjunction with https://github.com/davidkellis/gpstracker. https://github.com/davidkellis/gpstracker is the server side location tracking app that someone can use to track the location of the Arduino GPS tracker device.
 
+For reference, I'm using a SIM card from US Mobile - https://www.usmobile.com/. This application only needs a data plan from US Mobile - voice and text service is not needed. I currently pay $4/mo for 100MB/month.
+
 
 ## Getting Started
 
